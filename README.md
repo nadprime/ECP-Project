@@ -72,12 +72,16 @@ To run tests, run the following command
 
 ## Roadmap
 
-- Additional browser support
+- Improve UI and UX
 
-- Add more integrations
+- Integration with More Payment Gateways
+
+- Implementation of a Chatbot for Customer Support
+
+- Implementing Machine Learning for Advanced Product Recommendations
 
 
-## Authors
+## Author
 
 - Nadeem Ahmad
 
